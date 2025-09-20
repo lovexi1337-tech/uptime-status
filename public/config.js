@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Public Status',
+  SiteName: 'Mannitol Service Status',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -18,11 +18,11 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: 'JoinKook',
+      url: 'https://kook.vip/hOgIRr'
     },
     {
-      text: 'GitHub',
+      text: 'Github',
       url: 'https://github.com/yb/uptime-status'
     },
     {
